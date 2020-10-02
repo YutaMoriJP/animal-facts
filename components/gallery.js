@@ -4,7 +4,6 @@ import backgroundImage from '../src/img/ocean.jpg';
 import { imageObj } from './images.js';
 
 let title = '';
-
 const displayFact = e => {
   const randomNum = Math.floor(Math.random() * 3);
   document.getElementById('fact').innerHTML =
