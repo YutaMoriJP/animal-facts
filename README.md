@@ -1,2 +1,2 @@
 # animal-facts
-animal fact page
+Testing ReactMarkdown with this readme file, **bolded**, *italic*
